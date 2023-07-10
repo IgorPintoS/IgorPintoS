@@ -2,15 +2,15 @@
 
 ## **👩‍💻 QUEM SOU EU?**
 
-Me chamo Igor, atualmente estou cursando Ciência da Computação e buscando uma primeira oportunidade de entrar no mercado de tecnologia.
-Vai encontrar aqui alguns códigos de treinamento e em breve alguns projetos.
+Me chamo Igor, atualmente estou cursando Ciência da Computação.
+Você vai encontrar aqui alguns códigos de treinamento e em breve, alguns projetos.
 Trabalhando para ser um desenvolvedor Back-end.
 
 ## **📚 O QUE ESTOU ESTUDANDO ATUALMENTE.**
 
-Focado atuado atualmente em me desenvolver em Python.
+Focado atualmente em me desenvolver em Python.
 Iniciando o contato com Java, C# e SQL.
-Estudando também computação em nuvem, principalmente AWS e Azure.
+Estudo também computação em nuvem, principalmente, AWS e Azure.
 
 
 
