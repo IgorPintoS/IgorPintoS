@@ -3,14 +3,15 @@
 ## **👩‍💻 QUEM SOU EU?**
 
 Me chamo Igor, atualmente estou cursando Ciência da Computação.
-Você vai encontrar aqui alguns códigos de treinamento e em breve, alguns projetos.
+Você vai encontrar aqui alguns códigos de treinamento em Python e em breve, alguns projetos em Java.
 Trabalhando para ser um desenvolvedor Back-end.
 
 ## **📚 O QUE ESTOU ESTUDANDO ATUALMENTE.**
 
-Focado atualmente em me desenvolver em Python.
-Iniciando o contato com Java, C# e SQL.
-Estudo também computação em nuvem, principalmente, AWS e Azure.
+Focado atualmente em me desenvolver:
+- Java.
+- Spring Boot.
+- SQL.
 
 
 
