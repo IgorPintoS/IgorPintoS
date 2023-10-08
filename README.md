@@ -8,7 +8,7 @@ Trabalhando para ser um desenvolvedor Back-end.
 
 ## **📚 O QUE ESTOU ESTUDANDO ATUALMENTE.**
 
-Focado atualmente em me desenvolver:
+Focado atualmente em me desenvolver em:
 - Java.
 - Spring Boot.
 - SQL.
