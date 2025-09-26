@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por Java e atualmente focado em API Rest com Spr
 
 ## 🚀 Habilidades e Tecnologias
 **Front-end:** HTML, CSS, JavaScript.
-**Back-end:** Java, Node.js, Python
+**Back-end:** Java, Node.js, Python.
 **Ferramentas:** Git, GitHub, Genexus, IntelliJ, PostgreSQL.
 
 ## 📂 Meus Projetos em Destaque
