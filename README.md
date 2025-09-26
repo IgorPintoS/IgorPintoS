@@ -1,4 +1,4 @@
-# Olá, eu sou o [Igor]! 👋
+# Olá, eu sou o Igor! 👋
 
 ### Desenvolvedor Back-end Júnior 
 
