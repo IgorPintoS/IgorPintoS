@@ -19,7 +19,7 @@ Aqui estão alguns dos meus projetos favoritos:
 | **[app_metas](https://github.com/IgorPintoS/app_metas)** | Cadastro de metas atráves de prompt interativo. | Node.js |
 | **[jokenpo](https://github.com/IgorPintoS/jokenpo)** | Jokenpo jogado no terminal. | Python |
 
-## 📞 Vamos Conversar?
+## 📞 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/igor-pinto-756246275)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorpintosantos05@gmail.com)
 
