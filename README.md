@@ -2,11 +2,11 @@
 
 ### Desenvolvedor Back-end Júnior 
 
-Sou um desenvolvedor back-end, apaixonado por Java e atualmente estou focado API Rest com Spring boot, bancos relacionais e IA. Atuo hoje como desenvolvedor Genexus.
+Sou um desenvolvedor back-end, apaixonado por Java e atualmente estou focado API Rest com Spring boot, bancos relacionais. Atuo hoje como desenvolvedor Genexus.
 
 ## 🚀 Habilidades e Tecnologias
 **Front-end:** HTML, CSS, JavaScript.
-**Back-end:** Java, Node.js, Python.
+**Back-end:** Java, Python.
 **Ferramentas:** Git, GitHub, Genexus, IntelliJ, PostgreSQL.
 
 ## 📂 Meus Projetos em Destaque
