@@ -14,6 +14,7 @@ Aqui estão alguns dos meus projetos favoritos:
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
+| **[gerenciador-tarefas](https://github.com/IgorPintoS/gerenciador-tarefas)** | API de gerenciador de tarefas. | Java, Spring boot, H2 |
 | **[locadora-filmes-java-spring-api](https://github.com/IgorPintoS/locadora-filmes-java-spring-api)** | API de cadastro de filmes e gestão de locações. | Java, Spring boot, H2 |
 | **[biblioteca_api](https://github.com/IgorPintoS/biblioteca_api)** | Catalogação de livros. | Java, Spring boot, PostgreSQL |
 | **[app_metas](https://github.com/IgorPintoS/app_metas)** | Cadastro de metas atráves de prompt interativo. | Node.js |
