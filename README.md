@@ -24,4 +24,4 @@ Aqui estão alguns dos meus projetos favoritos:
 | Canal | Contato |
 | :--- | :--- |
 | **LinkedIn** | [Acessar Perfil](https://www.linkedin.com/in/igor-pinto-756246275) |
-| **Email** | [igorpintosantos05@gmail.com](mailto:igorpintosantos05@gmail.com) |
+| **E-mail** | [igorpintosantos05@gmail.com](mailto:igorpintosantos05@gmail.com) |
