@@ -14,14 +14,14 @@ Aqui estão alguns dos meus projetos favoritos:
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
+| **[climate_data_API](https://github.com/IgorPintoS/climate_data_API)** | Consumo de dados climáticos via API. | Java, Gson, HttpClient |
 | **[gerenciador-tarefas](https://github.com/IgorPintoS/gerenciador-tarefas)** | API de gerenciador de tarefas. | Java, Spring boot, H2 |
 | **[locadora-filmes-java-spring-api](https://github.com/IgorPintoS/locadora-filmes-java-spring-api)** | API de cadastro de filmes e gestão de locações. | Java, Spring boot, H2 |
 | **[biblioteca_api](https://github.com/IgorPintoS/biblioteca_api)** | Catalogação de livros. | Java, Spring boot, PostgreSQL |
 | **[app_metas](https://github.com/IgorPintoS/app_metas)** | Cadastro de metas atráves de prompt interativo. | Node.js |
 | **[jokenpo](https://github.com/IgorPintoS/jokenpo)** | Jokenpo jogado no terminal. | Python |
 
-## 📞 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/igor-pinto-756246275)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorpintosantos05@gmail.com)
-
----
+| Canal | Contato |
+| :--- | :--- |
+| **LinkedIn** | [Acessar Perfil](https://www.linkedin.com/in/igor-pinto-756246275) |
+| **Email** | [igorpintosantos05@gmail.com](mailto:igorpintosantos05@gmail.com) |
