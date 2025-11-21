@@ -6,7 +6,7 @@ Sou um desenvolvedor back-end, apaixonado por Java e atualmente estou focado API
 
 ## 🚀 Habilidades e Tecnologias
 **Back-end:** Java.
-**Ferramentas:** Git, GitHub, Genexus, IntelliJ, PostgreSQL.
+**Ferramentas:** Git, Genexus, IntelliJ, PostgreSQL.
 
 ## 📂 Meus Projetos em Destaque
 Aqui estão alguns dos meus projetos favoritos:
