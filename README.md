@@ -5,8 +5,7 @@
 Sou um desenvolvedor back-end, apaixonado por Java e atualmente estou focado API Rest com Spring boot, bancos relacionais. Atuo hoje como desenvolvedor júnior.
 
 ## 🚀 Habilidades e Tecnologias
-**Front-end:** HTML, CSS, JavaScript.
-**Back-end:** Java, Python.
+**Back-end:** Java.
 **Ferramentas:** Git, GitHub, Genexus, IntelliJ, PostgreSQL.
 
 ## 📂 Meus Projetos em Destaque
